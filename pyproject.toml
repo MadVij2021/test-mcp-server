@@ -7,4 +7,5 @@ requires-python = ">=3.12"
 dependencies = [
     "httpx>=0.28.1",
     "fastmcp",
+    "aiosqlite>=0.22.1",
 ]
